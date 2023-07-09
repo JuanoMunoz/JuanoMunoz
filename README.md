@@ -1,8 +1,8 @@
-# console.log("**how you doin**")
+# console.log("_how you doin!!_👋")
 ## It's me, Juan Muñoz
 
----
 I am Juan Muñoz, a student of Software Analysis and Development at SENA. I have a strong passion for learning and exploring various languages and frameworks, including Java, Spring Boot, Python, Swift, among others. I am constantly seeking opportunities to collaborate on projects that contribute to my personal growth and provide challenging experiences.
+---
 
 - 🌱 I am currently focusing on expanding my knowledge and skills in the following languages and frameworks:
   - Java
