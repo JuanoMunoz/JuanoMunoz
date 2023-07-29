@@ -9,7 +9,9 @@ I am Juan Muñoz, a student of Software Analysis and Development at SENA. I have
   - Java
   - Spring Boot
   - Python
-  - Swift
+  - Django
+  - JavaScript
+  - React
 - 💞️ I’m looking to collaborate on  projects that allow me to learn from others and contribute to my development as a software developer. I am open to exciting challenges and innovative ideas.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/)
 
