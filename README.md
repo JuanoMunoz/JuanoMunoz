@@ -8,8 +8,8 @@ I am Juan Muñoz, a student of Software Analysis and Development at SENA. I have
 - 🌱 I am currently focusing on expanding my knowledge and skills in the following languages and frameworks:
   - Java
   - Spring Boot
-  - Python
-  - Django
+  - C# / .NET
+  - Flutter
   - JavaScript
   - React
 - 💞️ I’m looking to collaborate on  projects that allow me to learn from others and contribute to my development as a software developer. I am open to exciting challenges and innovative ideas.
